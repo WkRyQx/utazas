@@ -1,0 +1,18 @@
+.főoldal {
+    background-color: #ddffdd;
+    font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+}
+.Cím {
+   font-size: medium;
+}
+li {
+    font-weight: bold;
+}
+.kep {
+    float: left;
+    margin-right: 100px;
+}
+p {
+    font-weight: normal;
+}
